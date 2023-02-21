@@ -1,0 +1,4 @@
+Name - Kokos
+Age - 35
+Pets - 2
+Salary - 5000
