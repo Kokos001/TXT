@@ -2,3 +2,4 @@ skills:
 Postman
 SQL
 Terminal
+ISTQB
